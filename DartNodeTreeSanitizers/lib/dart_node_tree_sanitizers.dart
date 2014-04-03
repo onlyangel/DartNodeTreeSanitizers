@@ -1,4 +1,4 @@
-library dartnodetreesanitizers;
+library dart_node_tree_sanitizers;
 import "dart:html";
 
 class NullTreeSanitizer implements NodeTreeSanitizer {
